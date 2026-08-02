@@ -3,76 +3,76 @@
         "id":"design-1",
         "category":"design",
         "title":"Restaurant Poster",
-        "images":["assets/design/Biriyani Poster.png",
-                 "assets/design/Biriyani Offer Poster.png",
-                "assets/design/C-Biriyani Poster.png",
-                "assets/design/Coffee Cup Poster.png"],
+        "images":["assets/design/Biriyani Poster.webp",
+                 "assets/design/Biriyani Offer Poster.webp",
+                "assets/design/C-Biriyani Poster.webp",
+                "assets/design/Coffee Cup Poster.webp"],
         "description":"Advertisement Posters of a Restaurant."
     },
     {
         "id":"design-2",
         "category":"design",
         "title":"Branding Logo",
-        "images":["assets/design/CareMate Logo B.png",
-                  "assets/design/CareMate Logo W.png"],
+        "images":["assets/design/CareMate Logo B.webp",
+                  "assets/design/CareMate Logo W.webp"],
         "description":"Branding Logo of a Company Called CareMate."
     },
     {
         "id":"design-3",
         "category":"design",
         "title":"Cover Page",
-        "images":["assets/design/Book Cover Page.png"],
+        "images":["assets/design/Book Cover Page.webp"],
         "description":"Design of a Cover Page of a Book."
     },
     {
         "id":"design-4",
         "category":"design",
         "title":"Logo Design",
-        "images":["assets/design/Computer Science Logo.png"],
+        "images":["assets/design/Computer Science Logo.webp"],
         "description":"Logo Design of Computer Science."
     },
     {
         "id":"design-5",
         "category":"design",
         "title":"Logo Design",
-        "images":["assets/design/DnF.png"],
+        "images":["assets/design/DnF.webp"],
         "description":"Logo Design of DnF Connect Pinterest Channel."
     },
     {
         "id":"design-6",
         "category":"design",
         "title":"Logo Design",
-        "images":["assets/design/DLook Logo B.png",
-                 "assets/design/DLook Logo W.png"],
+        "images":["assets/design/DLook Logo B.webp",
+                 "assets/design/DLook Logo W.webp"],
         "description":"Logo Designs of DLook Fashion Store."
     },
     {
         "id":"design-7",
         "category":"design",
         "title":" Logo Design",
-        "images":["assets/design/Morgan Cafe Logo.png"],
+        "images":["assets/design/Morgan Cafe Logo.webp"],
         "description":"Logo Design of a Cafe Called Morgan Cafe."
     },
     {
         "id":"design-8",
         "category":"design",
         "title":"Social Media Logo Design",
-        "images":["assets/design/Sumesh TN75 Logo.png"],
+        "images":["assets/design/Sumesh TN75 Logo.webp"],
         "description":"Logo Design of a YouTube Channel Called SumeshTN75."
     },
     {
         "id":"design-9",
         "category":"design",
         "title":"Social Media Logo Design",
-        "images":["assets/design/SD Storiez Logo.png"],
+        "images":["assets/design/SD Storiez Logo.webp"],
         "description":"Logo Design of a Instagram Page Called SD Storiez."
     },
     {
         "id":"design-10",
         "category":"design",
         "title":"Website UI Design",
-        "images":["assets/design/portfolio-UI Cover.png",
-                  "assets/design/portfolio-UI.png"],
+        "images":["assets/design/portfolio-UI Cover.webp",
+                  "assets/design/portfolio-UI.webp"],
         "description":"UI Design of a Personal Portfolio.",
         "links":{
                  "Prototype":"https://www.figma.com/proto/bYcsx2ibvT2hiuOA7dgIYm/portfolio?node-id=1-2&p=f&viewport=239%2C-155%2C0.28&t=IWDCfL5Uvj3Ls9y2-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2&page-id=0%3A1"
@@ -82,8 +82,8 @@
         "id":"design-11",
         "category":"design",
         "title":"Mobile App UI Design",
-        "images":["assets/design/House Booking UI Cover.png",
-                  "assets/design/House Booking UI.png"],
+        "images":["assets/design/House Booking UI Cover.webp",
+                  "assets/design/House Booking UI.webp"],
         "description":"UI Design of a House Booking Mobile App.",
         "links":{
                   "Prototype":"https://www.figma.com/proto/25rCQR8on0OzZb0RmZnWfs/House-Booking-UI?node-id=4-4&p=f&viewport=-935%2C31%2C0.5&t=vm3A5XXMxq8pd5Rn-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4&page-id=0%3A1"
@@ -93,10 +93,10 @@
         "id":"design-12",
         "category":"design",
         "title":"Website UI Design",
-        "images":["assets/design/Tejas Website New Cover.png",
-                  "assets/design/Tejas Website New.png",
-                  "assets/design/Tejas Website-ui.png",
-                  "assets/design/Tejas Website-light theme-ui.png"],
+        "images":["assets/design/Tejas Website New Cover.webp",
+                  "assets/design/Tejas Website New.webp",
+                  "assets/design/Tejas Website-ui.webp",
+                  "assets/design/Tejas Website-light theme-ui.webp"],
         "description":"UI Design of a Business Website.",
         "links":{
                  "Prototype-1":"https://www.figma.com/proto/vqnDhXmVB5Op0J0UGms88m/Tejas-Website?node-id=33-232&viewport=278%2C-54%2C0.11&t=jTgl4cmzpXWfR5Te-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=122%3A2&page-id=0%3A1",
@@ -107,16 +107,16 @@
         "id":"develop-1",
         "category":"develop",
         "title":"E-commerce Website",
-        "images":["assets/site/capeverse-1.png",
-                  "assets/site/capeverse-2.png",
-                  "assets/site/capeverse-3.png",
-                  "assets/site/capeverse-loginpage.png",
-                  "assets/site/capeverse-signuppage.png",
-                  "assets/site/capeverse-productpage.png",
-                  "assets/site/capeverse-wishlistpage.png",
-                  "assets/site/capeverse-cartpage.png",
-                  "assets/site/capeverse-orderspage.png",
-                  "assets/site/capeverse-footer.png"
+        "images":["assets/site/capeverse-1.webp",
+                  "assets/site/capeverse-2.webp",
+                  "assets/site/capeverse-3.webp",
+                  "assets/site/capeverse-loginpage.webp",
+                  "assets/site/capeverse-signuppage.webp",
+                  "assets/site/capeverse-productpage.webp",
+                  "assets/site/capeverse-wishlistpage.webp",
+                  "assets/site/capeverse-cartpage.webp",
+                  "assets/site/capeverse-orderspage.webp",
+                  "assets/site/capeverse-footer.webp"
                   ],
         "description":"FullStack Development Project to create a complete E-Commerce Website.",
         "links":{
@@ -127,8 +127,8 @@
         "id":"develop-2",
         "category":"develop",
         "title":"Personal Portfolio",
-        "images":["assets/site/Dhanush-portfolio-cover.png"],
-        "videos":["assets/site/Dhanush-portfolio-demo.mp4"],
+        "images":["assets/site/Dhanush-portfolio-cover.webp"],
+        "videos":["assets/site/Dhanush-portfolio-demo.webm"],
         "description":"Personal Portfolio Website of Fullstack Web Developer cum Designer.",
         "links":{
             "Github":"https://github.com/MDhanush20/CapeVerse-Ecommerce"
